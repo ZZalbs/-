@@ -1,0 +1,480 @@
+ranch/목장,목축장
+overrun/우거지다,들끓다
+transfer/전학시키다,옮기다,이동,전학
+eligible/자격이 있는
+certificate/증명서,자격증
+renew/갱신하다
+overwhelmed/벅찬,압도된
+compliment/칭찬하다,칭찬
+disturb/방해하다
+enthusiasm/열정,열의
+thrive/번성하다,잘 자라다
+pervasive/만연하는,스며드는
+literature/문학,문헌
+advantage/장점,이점
+trait/특성,특징
+aspire/열망하다
+alienate/소외시키다
+adjust/적응하다,조정하다
+portion/부분,일부, 몫	
+dialect/방언,사투리
+tidy/정리하다
+portable/휴대용의
+resolution/해상도,결심,해결
+prohibit/금지하다
+overcharge/바가지씌우다
+transparent/투명한
+reasonable/합리적인
+overdo/과하게 하다
+opponent/상대방
+privatize/사유화하다
+communicate/의사소통하다
+endangered/멸종위기의
+pulse/맥박, 리듬
+reckless/무모한,무분별한
+inspiration/영감
+abstract/추상적인,관념적인
+access/접근,입구,접속하다
+acknowledge/인정하다
+comprehend/이해하다
+paraphrase/바꿔말하다
+anthropology/인류학
+episode/1회 방송분
+afford/여유가 있다
+tailor/재단사,맞추다
+porcelain/자기(그릇)
+draft/초안,선발하다
+carpentry/목공
+split/쪼개다,분리하다
+cozy/아늑한,포근한
+attached/부착된,부속된,애착이 있는
+emergency/비상사태,위급
+obligation/의무,책임
+hinder/방해하다, 저해하다
+modify/수정하다
+lag/지연,지체,줄어들다,뒤떨어지다
+masterpiece/걸작,명작
+worship/숭배,숭배하다
+rage/격노,분노,번지다
+blame/비난하다,탓하다
+spouse/배우자
+negotiate/협상하다
+addicted/중독된
+statue/조각상
+cooperation/협동,협력
+neighborhood/근처,동네,이웃
+trim/다듬다
+evaluation/평가,감정
+scatter/흩뜨리다,뿌리다
+retirement/퇴직,은퇴
+venue/장소,개최지
+tame/다스리다,길들이다,길들여진
+intensify/강화하다,심해지다
+assess/평가하다,재다
+trigger/일으키다,방아쇠,계기
+density/비중,밀도,농도
+multiply/늘어나다,증식하다,곱하다
+cease/중단하다,중단되다,그치다
+advocate/옹호자,지지자,옹호하다
+induce/초래하다,유발하다,설득하다
+envision/예상하다,계획하다
+recipe/조리법,레시피
+ingredient/재료,성분,요소
+rinse/헹구다
+odor/냄새,악취
+checkered/가지각색의
+slot/투입구,구멍
+exhibition/전시회
+perspective/관점
+gorgeous/아주 멋진,화려한
+impressive/인상적인
+reverse/뒤바꾸다,반대로 하다
+instinct/본능,타고난 소질
+evolve/진화시키다,진화하다
+posture/자세,몸가짐,태도
+justify/정당화하다
+encounter/우연히 만나다,조우
+variable/변수,가변적인
+accuracy/정확성
+disclose/밝히다,드러내다
+remedy/해결책,고치다
+article/기사,글,조항
+dilute/희석하다
+vertical/수직의,세로의
+acid/산성,신 맛의
+container/컨테이너,용기
+liquid/음료,액체,유동적인
+sharpen/향상하다,날카롭게 하다,연마하다
+scared/두려워하는,겁먹은
+cashier/계산대 직원
+flight/비행,항공편
+internalize/내면화하다
+radioactive/방사성의
+medieval/중세의,중세풍의
+property/재산,소유물,속성
+complement/보강하다,덧붙이다
+inherent/고유의,타고난,내재된
+gratitude/감사,고마움
+weave/엮어 넣다,천을 짜다
+fragile/취약한, 잘 부서지는
+speculate/추측하다,짐작하다,투기하다
+significant/상당한,중요한,의미심장한
+scratch/긁힌 자국,긁다
+misbehave/못된 짓을 하다
+recommend/추천하다
+customer/손님
+intermediate/중급,중급의
+recruit/모집하다
+bathtub/욕조
+adhesive/접착제,끈적한
+passenger/승객
+calculation/계산,산출
+predominant/지배적인,우세한,두드러진
+degrade/분해되다,저하시키다,훼손하다
+refine/향상시키다,정제하다
+reservoir/저장,비축,저수지
+symbolize/상징하다
+possession/소유물,재산,보유
+gravity/심각성,중력,중대함
+metaphysical/형이상학적인,추상적인
+significance/의미,의의,중요성
+confirm/확정하다,확인하다
+mention/언급하다
+crack/깨지다,금
+reservation/의구심,예약
+remaining/남아있는
+solid/무늬가 없는,단단한,고체
+pillow/쿠션,베개
+hybrid/혼합의,잡종
+flat/공기가 빠진,평평한
+packaging/포장재
+devaluation/평가 절하,가치 절하
+appreciation/인식,인정,감상
+restriction/제약,제한
+accommodate/적응시키다,담다,수용하다
+sphere/분야,영역,구
+executive/경영인,간부,경영의
+convert/변환하다,개조하다
+reassurance/안심시키기
+complicated/복잡한
+aquatic/수중의,수생의
+entry/참가,출품작
+participant/참가자
+vote/투표하다
+fee/수수료
+content/내용물,함유량
+attendee/수강생
+rating/평가,순위
+distance/거리,먼 곳
+preference/선호
+budget/예산
+liberate/해방하다
+dissolve/녹이다
+acute/예민한,발달된,격심한
+defendant/피고
+credibility/신뢰성
+merchant/상인
+conceive/구상하다
+interplay/상호작용
+discourse/담화
+frustration/좌절감
+framed/액자가 있는
+cover/보장하다,덮다,보도하다
+commute/통근하다
+reschedule/일정을 바꾸다
+worth/가치있는
+flyer/전단지
+registeration/등록
+refund/환불
+display/전시하다
+sculpture/조각품
+aggressive/공격적인
+mortality/사망률
+facilitate/촉진하다
+substitute/대신하다
+anonymous/익명의,특색없는
+differentiate/차별화하다
+discrimination/차별,안목
+controversial/논란이 많은
+medicinal/의약의
+administer/투여하다,관리하다
+detect/감지하다
+device/기기,장치
+pollutant/오염물질, 오염된
+emission/배출물
+flattered/우쭐해진
+recognize/인식하다
+autograph/사인
+rectangular/직사각형의
+column/기둥,칼럼
+insight/통찰력
+vaccinate/백신을 맞다
+conventional/기존의,전통적인
+component/성분,요소,부품
+freight/화물,운송
+accustomed/익숙한,평상시의
+parasite/기생충
+glacier/빙하
+remainder/나머지
+vegetation/초목,식물
+accelerate/가속하다
+rearrange/재정리하다
+instrument/악기,기구
+secure/확보하다,안전한
+inconvenient/불편한
+storage/창고,저장
+appointment/예약,임명
+committee/위원회
+promotional/홍보의
+aptitude/적성
+auditorium/강당
+define/정의하다,밝히다
+guardian/보호자,후견인
+glimmer/희미한 빛,빛나다
+errand/심부름
+perserverance/인내
+proficient/능숙한
+transcend/초월하다
+consistent/일치하는
+fluctuate/변동하다
+external/외부의
+facility/시설, 솜씨, 지능
+resident/거주자,주민
+annual/연례의,매년의
+landfill/매립지
+enroll/등록하다,입학시키다
+interactive/쌍방의
+immerse/몰두하게 하다
+memorable/잊지 못할,기억할 만한
+filter/여과 장치,필터
+inseparable/불가분의
+assimilation/동화,흡수
+punctual/시간을 잘 지키는
+verbal/언어적인,말로 된
+disclosure/드러냄,폭로
+retreat/도피하다
+colide/충돌하다,부딪히다
+cautious/신중한,조심스러운
+mature/성숙한,어른스러운
+sector/부문,분야
+confidence/자신감,신뢰
+biosphere/생물권
+summon/부르다,소환하다
+captivate/사로잡다,매혹하다
+stimulate/자극하다
+regulate/통제하다
+pervade/스며들어있다, 퍼지다
+stereotype/고정관념,정형화된 생각
+resign/탈퇴하다,사임하다
+broadcast/방송하다,알리다
+exploratory/탐색의,탐구의
+empathy/공감,감정이입
+assemble/조립하다
+artificial/인공의
+massive/거대한
+widespread/광범위한
+acceptance/인정,수용
+confusion/혼동,당혹감
+compatible/양립 가능한,호환되는
+boundary/경계선,한계
+contagious/전염성의
+mortgage/대출금
+prevail/우세하다,지배하다,승리하다
+encompass/포함하다,에워싸다
+eliminate/제거하다,없애다
+portray/묘사하다
+threaten/위협하다,협박하다
+inevitable/필연적인
+attribute/~의 탓으로 돌리다
+partially/부분적으로
+vanish/사라지다
+collective/집단의,공통의
+accumulate/축적하다
+collaborate/협력하다
+establish/설립하다
+quest/추구,탐색
+constant/끊임없는
+convey/전달하다
+interrupt/방해하다
+prejudice/편견
+betray/배신하다,누설하다
+proposition/주장,문제,제안
+familiarity/친숙함
+periodical/정기간행물
+prominent/저명한,중요한
+compliance/순종
+validate/입증하다,승인하다
+assertion/주장,권리행사
+strain/부담,변종.품종
+reluctance/꺼려함
+appliance/기기
+procedure/절차
+entail/수반하다
+liability/의무,부채
+enhance/향상하다
+neglect/등한시,간과하다
+ongoing/진행중인
+excessive/과도한,엄청난
+precise/정확한,정밀한
+dimension/크기,차원,지수
+extract/추출하다
+coincidence/우연의 일치
+premise/전체
+surge/급증
+molecule/분자
+suppress/억제하다
+productivity/생산성
+disrupt/방해하다,교란하다
+prosperous/번영한
+magnityde/규모,중요도
+bankruptcy/파산
+accompany/동반하다,동행하다
+valid/유효한,타당한
+metabolic/신진대사의
+ambiguous/애매한
+compose/작곡하다
+prosperity/번영
+revenue/수입
+depression/불황
+infer/추측하다,암시하다
+constraint/제약,제한
+disability/상해,장애
+colleague/동료
+breathe/숨쉬다
+pollution/공해,오염
+clarity/명료성,명확성
+consciousness/의식,자각
+fraction/일부분,분수,파편
+static/정적인,정지된
+expedition/원정대
+depict/묘사하다,서술하다
+connection/연결,연관성
+dismantle/해체하다,분해하다
+reconcile/조화시키다
+guideline/지표,지침
+deforestation/삼림파괴
+sensation/감각
+statistics/통계
+incidence/발생률
+correlation/상관관계
+activate/활성화하다
+confront/맞서다
+commitment/헌신,매진
+investment/투자
+ensure/보장하다
+threshold/한계점,문턱
+verify/확인하다
+universality/보편성
+popularity/인기
+demolish/철거하다
+monetary/금전적인
+impression/인상
+ethnic/민족의
+dominate/지배하다
+publish/출판하다
+available/이용가능한
+outstanding/우수한
+pioneer/개척자
+spawn/알을 낳다,결과를 낳다
+assign/지명하다,맡기다,할당하다
+bureaucratic/관료주의의
+judical/재판의,사법의
+conflict/갈등,마찰
+merge/통합하다
+equitable/공평한
+obscure/가리다,흐릿한,모호한
+wander/돌아다니다
+distracted/주의를 뺏긴
+persist/계속하다,지속되다
+suffice/충분하다
+costume/의상,복장
+discourage/막다,의욕을 꺾다
+penetrate/통과하다,관통하다
+wavelength/파장,주파수
+purpose/목적
+torture/고통,고문
+endow/부여하다,기부하다
+disease/질병
+recipient/수혜자,받는 사람
+illuminate/밝히다,설명하다,계몽하다
+arrangement/배열,배치,준비
+diversity/다양성
+integration/통합
+concentration/밀집도,집중력
+detection/발각,탐지
+dense/촘촘한
+interaction/상호작용,소통
+perilous/위험한
+utility/효용,유용성
+liberalism/자유주의
+subjective/주관적인
+manuscript/원고
+improvement/개선
+conceal/숨기다
+dominant/지배적인,유력한
+interpret/해석하다,통역하다
+rebellition/반항
+considerable/상당한
+feasible/실현 가능한
+closure/폐쇄,종료
+feature/특징,이목구비,포함하다
+rational/이상적인
+fabricate/제조하다,조작하다
+onset/시작,개시
+distinction/차이,구별
+vulnerability/취약성
+casualty/피해자
+eruption/분출
+erosion/침식,부식
+normative/규범적인,규범의
+statement/진술,서술,성명
+beverage/음료
+celebration/축하,찬양
+dedicate/헌정하다,전념하다
+chairperson/위원장,의장
+explode/터지다
+heritage/유산
+treasure/보물, 소중히여기다
+automation/자동화
+edition/판본
+urge/촉구하다,충동
+fluid/순조로운,유체
+rotation/순환,교대,자전
+fertility/비옥,다산
+depletion/고갈
+disruption/붕괴,혼란
+aspect/측면,양상
+interrelated/관련이 있는
+lousy/형편없는
+eternity/영원
+neurological/신경학의
+tropical/열대의
+despise/경멸하다
+breed/기르다,야기하다,품종
+spoil/상하다
+censor/금하다,삭제하다
+disregard/무시하다,묵살하다
+relief/완화,안심
+reliance/의지,의존
+diagnosis/진단
+inhibit/억제하다
+candid/솔직한
+beneficial/유익한
+corporate/기업의
+renovate/개조하다,공사하다
+transaction/거래,매매
+extiction/멸종
+objective/객관적인,목표
+elaboration/상세한 설명,정교함,복잡함
+inference/추론
+devoted/~에 쓰이는,헌신적인
+influential/영향력 있는,유력한
+obey/복종하다,준수하다
+transform/바꾸다
+direction/지시,방향,감독
+authority/권위자,권한
+institution/기관,제도
+legitimate/합법적인
+share/몫,지분,나누다
+withdraw/철수하다
+domestication/사육
