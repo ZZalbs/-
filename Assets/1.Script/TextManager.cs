@@ -9,6 +9,14 @@ public class TextManager : MonoBehaviour
     public Text rightText;
     public Text leftText;
     public Text scoreText;
+    GameObject rb;
+    GameObject lb;
+
+    private void Awake()
+    {
+        rb = rightText.GetComponentInChildren<Button>().gameObject;
+        lb = leftText.GetComponentInChildren<Button>().gameObject;
+    }
 
     public void quizUpdate(string q)
     {
@@ -31,6 +39,8 @@ public class TextManager : MonoBehaviour
         rightText.enabled = true;
         leftText.enabled = true;
         scoreText.enabled = true;
+        rb.SetActive(true);
+        lb.SetActive(true);
     }
 
     public void textOff()
@@ -38,7 +48,19 @@ public class TextManager : MonoBehaviour
         quizText.enabled = false;
         rightText.enabled = false;
         leftText.enabled = false;
-        scoreText.enabled = false; 
+        scoreText.enabled = false;
+        rb.SetActive(false);
+        lb.SetActive(false);
+    }
+
+    public void textOver()
+    {
+        quizText.enabled = false;
+        rightText.enabled = false;
+        leftText.enabled = false;
+        scoreText.enabled = true;        
+        rb.SetActive(false);
+        lb.SetActive(false);
     }
 
     public void TextColorMake(char check, int r, int g, int b)

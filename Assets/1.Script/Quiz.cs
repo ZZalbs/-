@@ -38,7 +38,6 @@ public class Quiz : MonoBehaviour
             QuizFiletype quizData = new QuizFiletype
             {
                 word = line.Split('/')[0],
-                //Debug.Log(quizData.zungguo);
                 meaning = line.Split('/')[1]
                 
             };

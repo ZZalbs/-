@@ -478,3 +478,77 @@ legitimate/합법적인
 share/몫,지분,나누다
 withdraw/철수하다
 domestication/사육
+status/신분
+adequate/적절한
+distrust/불신
+reinforce/강화하다
+offset/상쇄,상쇄하다
+enact/시행하다,제정하다
+conservation/보존
+territory/영역
+resume/재시작하다
+invoke/상기시키다,불러일으키다,호소하다
+circuit/회로,순환
+shrink/줄어들다
+attend/주의하다,참석하다
+context/상황,맥락
+construct/형성하다,건설하다,구성
+intention/의도
+distinct/별개의,다른
+profit/이득
+undermine/손상시키다,약화시키다
+vigorous/활발한,격렬한
+marginal/미미한,한계의,변두리의
+deficient/결함이 있는
+reconcilation/조화,화해
+subsidy/보조,장려금
+inherit/물려받다,상속받다
+novelty/새로운 것,참신함
+empowerment/권한부여,힘의 분산
+affordable/알맞은,입수 가능한
+undertake/착수하다,떠맡다
+hypothesize/가설을 세우다
+bind/묶다
+pragmatic/실용적인
+destination/목적지,도착지
+visibility/가시성,가시거리
+optimize/최적화하다
+prediction/예측,내용
+destination/목적지,도착지
+visibility/가시성
+optimize/최적화하다
+prediction/예측
+forecast/예보,예보하다
+gather/수집하다,모으다
+quantification/수량화
+lessen/감소시키다
+exert/발휘하다
+causality/인과관계
+competent/능숙한
+metaphor/은유
+emphasize/강조하다
+prioritize/우선시하다
+indicate/나타나다
+extend/확장되다
+humiliation/굴욕
+gleam/반짝거리다
+purchase/구매
+grasp/파악하다,이해하다,꽉 잡다
+inquiry/연구,문의,조사
+unique/독특한
+precede/앞서다
+instruction/교육,지시
+govern/지배하다,통치하다
+utter/말하다
+acquire/습득하다
+exception/예외
+sequential/순차적인
+fundamental/근본적인
+superficial/피상적인,얄팍한
+solidarity/연대
+fomula/공식,제조법
+emphasis/강조
+regin/군림하다
+divergent/확산적인,갈라지는
+linear/선형적인,1차원의
+deposit/예금하다,침전시키다

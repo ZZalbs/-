@@ -18,15 +18,11 @@ public class GameStart : MonoBehaviour
     public void easy() { timeValue = 6; StartCoroutine(Countdown()); }
     public void medium() { timeValue = 4; StartCoroutine(Countdown()); }
     public void hard() { timeValue = 2; StartCoroutine(Countdown()); }
-    
-    public void GameOn()
-    {
-        StartCoroutine(Countdown());
-    }
 
     IEnumerator Countdown()
     {
         startCanvas.SetActive(false);
+        count.enabled = true;
         for (int num = 3; num >= 0; num--)
         {
             count.text = num.ToString();
