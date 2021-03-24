@@ -552,3 +552,43 @@ regin/군림하다
 divergent/확산적인,갈라지는
 linear/선형적인,1차원의
 deposit/예금하다,침전시키다
+transcribe/기록하다
+grab/붙잡다
+regional/지역의
+breathtaking/숨막히는
+mastery/숙달,지배력
+entity/실체,존재
+revenge/보복,복수하다
+progress/진보
+surpass/능가하다
+overtake/따라잡다,앞지르다
+disqualify/실격시키다
+anticipation/선제 행동, 기대
+maintain/유지하다,주장하다
+deprive/없애다,박탈하다
+shelter/보호소,피난처
+onslaught/강습
+additional/추가적인
+exclude/제외하다
+odds/확률,가능성,역경,상충
+exploration/탐구,탐험
+categorize/분류하다,범주에 넣다
+diagnose/진단하다
+treatment/치료,대우,처리
+prospect/전망,가능성
+detail/세부사항,상술하다
+reaction/반응
+essential/필수적인,본질적인
+audience/청자,관중
+deserve/자격이 있다
+modesty/보통,겸손함,적절함
+chaos/혼돈
+galaxy/은하수
+foundation/기반
+ancestor/조상
+trace/추적하다,흔적,극미량
+identity/신원,유사성,정체성
+attraction/끌림,명소
+integrity/진실성,온전함
+cohesion/화합,응집력
+frugal/절약하는,간소한
