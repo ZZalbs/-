@@ -7,16 +7,22 @@ public class GameStart : MonoBehaviour
 {
     public GameObject startCanvas;
     public Text count;
+    public Text[] highscore;
+
+
     private GameManager gm;
     int timeValue;
 
     private void Start()
     {
         gm = GetComponent<GameManager>();
+        highscore[0].text = Save.instance.GetEasy().ToString();
+        highscore[1].text = Save.instance.GetNormal().ToString();
+        highscore[2].text = Save.instance.GetHard().ToString();
     }
 
-    public void easy() { timeValue = 6; StartCoroutine(Countdown()); }
-    public void medium() { timeValue = 4; StartCoroutine(Countdown()); }
+    public void easy() { timeValue = 4; StartCoroutine(Countdown()); }
+    public void medium() { timeValue = 3; StartCoroutine(Countdown()); }
     public void hard() { timeValue = 2; StartCoroutine(Countdown()); }
 
     IEnumerator Countdown()

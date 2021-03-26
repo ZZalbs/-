@@ -67,6 +67,7 @@
     <Compile Include="Assets\1.Script\Gameover.cs" />
     <Compile Include="Assets\1.Script\Quiz.cs" />
     <Compile Include="Assets\1.Script\QuizFiletype.cs" />
+    <Compile Include="Assets\1.Script\Save.cs" />
     <Compile Include="Assets\1.Script\TextManager.cs" />
     <Compile Include="Assets\1.Script\Wave.cs" />
     <Compile Include="Assets\AllIn1SpriteShader\Demo\Scripts\All1ShaderDemoController.cs" />

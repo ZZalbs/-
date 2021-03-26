@@ -35,9 +35,9 @@ public class GameManager : MonoBehaviour
         quizLogic = GetComponent<Quiz>();
         textLogic = GetComponent<TextManager>();
         waveLogic = GetComponent<Wave>();
+        mat = waveLogic.wave.GetComponent<SpriteRenderer>().material;
         quizLogic.ReadQuizFiletype();
         FirstCam();
-        mat = waveLogic.wave.GetComponent<SpriteRenderer>().material;
     }
 
     void Update()
@@ -143,7 +143,7 @@ public class GameManager : MonoBehaviour
 
     void Hardup()//난이도 올리기
     {
-        if (score == scorecheck && scorecheck <= 50) //10단위로 0.1초씩 시간감소
+        if (score == scorecheck && timerMax>1) //10단위로 0.1초씩 시간감소
         {
             timerMax -= 0.1f;
             scorecheck += 5;
