@@ -592,3 +592,83 @@ attraction/끌림,명소
 integrity/진실성,온전함
 cohesion/화합,응집력
 frugal/절약하는,간소한
+constitutional/헌법의,체질의
+convergence/융합,집중,수렴
+possess/소유하다
+overlap/겹치다,공통부분
+publication/출판물,발행,발표
+swap/바꾸다
+revolution/혁명
+province/분야,지방
+sensible/합리적인
+misfortune/불운
+permanent/영원한
+therapy/치료
+protein/단백질
+structure/구조,조직하다
+arouse/자극하다,각성시키다
+discipline/학문,징계하다
+geology/지질
+reconstruct/재구성하다
+inhabit/서식하다
+manufacture/만들다,제조
+disagree/의견을 달리하다
+examine/검사하다,고찰하다
+ubiquitous/아주 흔한,도처에 있는
+spiritual/정신적인
+obtain/얻다,획득하다
+apparatus/기구,기계
+gifted/재능 있는
+partnership/동업,동반자관계
+monument/기념비
+imagery/이미지,심상
+nutrition/영양
+nourish/영양공급하다,기르다,강화하다
+contribution/원인제공,기여
+unveil/공개하다
+penalty/벌금,처벌
+pressure/압력,기압
+bystander/방관자,행인
+similar/유사한
+enforce/집행하다,강요하다
+revise/수정하다
+conquest/정복,점령지
+precious/귀한
+emperor/황제
+respected/훌륭한,존경받는
+embark/시작하다,탑승하다
+refer/언급하다,참조하다
+stain/얼룩,착색
+ornamental/장식품,장식용의
+announce/알리다
+tilt/기울이다,경사
+notorious/악명 높은
+mythology/신화,근거없는믿음
+tragedy/비극,비극적 사건
+embody/포함하다,구현하다,합체하다
+immortal/불멸의
+superiority/우월성,거만함
+bias/편견
+ritual/의식
+politics/정치,정치적 견해
+separation/분리,헤어짐,별거
+flip/뒤집다,공중제비
+surround/둘러싸다
+independen/별개의,독립적인
+chase/추적하다,추구,쫓다
+standstill/정지
+multitude/다수,군중
+attratctive/매력적인
+visualize/시각화하다
+trivial/사소한,하찮은
+orientation/방향,지향,예비교육
+sacred/신성한
+purification/정화,정제
+demonstrate/보여주다,입증하다
+desperate/절박한
+reveal/드러내다,나타나다
+warrior/군인
+planet/세상,행성,지구
+sacrifice/희생하다,제물
+phenomenon/현상,경이로운 것
+observe/준수하다,관찰하다

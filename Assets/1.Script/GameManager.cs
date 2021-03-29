@@ -21,7 +21,8 @@ public class GameManager : MonoBehaviour
     bool ddang = false;
 
     [SerializeField]float timerCur = -1; // 시간재는 용도
-    public float timerMax = 0; // 사망할 시간
+    public float timeValue=0;
+    float timerMax = 0; // 사망할 시간
 
     int answer;
     int score = 0;
@@ -59,6 +60,7 @@ public class GameManager : MonoBehaviour
 
     public void GameGo()
     {
+        timerMax = timeValue;
         timerCur = 0;
         score = 0;
         mat.SetFloat("_Glow", score * 0.1f);
@@ -137,6 +139,8 @@ public class GameManager : MonoBehaviour
         timerMax = 0;
         waveLogic.WaveEnd();
         overLogic.textofScore(score);
+        Save.instance.SaveScore((int)timeValue, score);
+        startLogic.ScoreTextView();
         overLogic.Gameend(textLogic.quizText.text, answer == 0 ? textLogic.leftText.text : textLogic.rightText.text);
         
     }

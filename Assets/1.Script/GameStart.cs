@@ -16,14 +16,19 @@ public class GameStart : MonoBehaviour
     private void Start()
     {
         gm = GetComponent<GameManager>();
-        highscore[0].text = Save.instance.GetEasy().ToString();
-        highscore[1].text = Save.instance.GetNormal().ToString();
-        highscore[2].text = Save.instance.GetHard().ToString();
+        ScoreTextView();
     }
 
     public void easy() { timeValue = 4; StartCoroutine(Countdown()); }
     public void medium() { timeValue = 3; StartCoroutine(Countdown()); }
     public void hard() { timeValue = 2; StartCoroutine(Countdown()); }
+
+    public void ScoreTextView()
+    {
+        highscore[0].text = Save.instance.GetEasy().ToString();
+        highscore[1].text = Save.instance.GetNormal().ToString();
+        highscore[2].text = Save.instance.GetHard().ToString();
+    }
 
     IEnumerator Countdown()
     {
@@ -35,7 +40,7 @@ public class GameStart : MonoBehaviour
             yield return new WaitForSeconds(0.7f);
         }
         count.enabled = false;
-        gm.timerMax = timeValue;
+        gm.timeValue = this.timeValue;
         gm.GameGo();
     }
 }
