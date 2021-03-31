@@ -78,7 +78,7 @@ public class GameManager : MonoBehaviour
 
     void QuizOn()
     {
-        mat.SetFloat("_Glow", score * 0.1f);
+        mat.SetFloat("_Glow", score * 0.05f);
         int k = Random.Range(0, quizLogic.spawnList.Count - 1);
         answer = Random.Range(0, 2);
         textLogic.quizUpdate(quizLogic.QuizReturn(k));
