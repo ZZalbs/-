@@ -809,3 +809,106 @@ transition/전환,이행
 cosmos/우주,천지만물
 flourish/번성하다
 manifest/나타내다
+elegant/명쾌한,우아한
+expand/확장하다
+undeniable/명백한
+predispose/기울이다, 성향을 갖게 하다
+broaden/넓히다
+propositional/비례하는
+reluctant/꺼리는
+retail/소매
+reunion/재회,동창회
+cruel/잔인한
+analyst/분석가
+projection/전망,계획
+chaotic/혼란스러운
+disposition/기질,성향
+discount/무시하다,할인
+vivid/선명한
+communal/공동의
+correspondence/부합,일치,서신
+criterion/기준
+mediate/조정하다
+thesis/명제,논지,논문
+congregate/모이다
+foster/발전시키다,조성하다
+engrossed/열중한,몰두한
+disheartened/낙담한
+stupidity/어리석음
+milestone/이정표,중요한 사건
+hardship/어려움,고난
+allot/할당하다
+critical/중요한,비판적인
+advent/출현,도래
+contend/주장하다,싸우다
+civilization/문명
+parallel/유사하다,상응하는것
+commodity/상품,물품,원자재
+monopoly/독점
+crucial/결정적인,중대한
+allocate/할당하다,배분하다
+underlying/근본적인,잠재적인
+consumption/소비
+reframe/재구성하다
+provoke/일으키다
+realm/영역
+vendor/노점상,행상인
+vocal/구두의,목소리의
+solitary/고독한,혼자하는
+marvelous/놀라운,경이로운
+persuasive/설득력있는
+condition/조건,상황,환경
+relevant/관련된,유의미한,적절한
+identify/동일시하다,식별하다,확인하다
+oppose/반대하다
+astray/길을 잃은, 타락한
+infrastructure/사회기반시설
+urbanization/도시화
+governance/통치방식
+compound/악화시키다,화합물
+regulatory/규제의,통제력을 지닌
+discredit/신뢰를 떨어뜨리다
+contradict/모순되다,반박하다
+profitability/수익성
+terminal/치명적인,종국의
+associate/동료,연관짓다
+rodent/설치류
+efficacy/효능,효험
+numerous/수많은
+decoration/장식
+craftsman/장인
+coordinated/통합된,조직적인
+specific/특정한,구체적인
+overt/드러난,명시적인
+inject/도입하다,주입하다
+competitive/경쟁적인,경기의
+descendant/자손,후예
+reproduction/번식,복제
+lineage/혈통,가계
+selfless/이타적인
+maximize/극대화하다
+colony/군체,집단
+profile/겉모습,윤곽,특성
+complexity/복잡성
+enrich/풍요롭게 하다
+healthspan/건강수명
+determinative/결정적인
+counterintuitive/직관에 반하는
+elevate/기분을 돋다,높이다
+inconsequential/하찮은
+appointee/임명된 사람
+nurture/양육,키우다
+pretend/~인 척하다
+invariably/언제나,변함없이
+efficient/효율적인
+interdependent/상호의존적인
+unprecedented/전례가 없는
+incentive/동기,장려책
+outcome/결과
+occurance/일,사건,발생
+clarify/분명하게 하다
+externalize/표면화하다
+violate/위배하다,어기다
+medium/표현 수단,매체
+astonishing/놀라운
+formulate/표현하다,만들다
