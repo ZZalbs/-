@@ -912,3 +912,233 @@ violate/위배하다,어기다
 medium/표현 수단,매체
 astonishing/놀라운
 formulate/표현하다,만들다
+warranty/보증,보증서
+flap/퍼덕거리다,덮개
+patch/조각,부분
+spatial/공간의
+emergence/등장,발생
+infancy/유아기,초창기
+soothe/달래다
+abandon/버리다
+assert/주장하다
+prospective/잠재적인,장래의,다가오는
+outlive/오래지속되다
+adherence/집착,고수
+nonverbal/비언어적인
+unity/통일성,일치
+correspond/부합하다,일치하다
+auditory/청각의
+breakthrough/획기적인 발전
+affectionate/다정한,애정어린
+intonation/억양
+commerce/상업
+substantial/상당한,크고 튼튼한,실질적인,물질의
+anomalous/이례적인,변칙의
+verdict/평결,의견
+distort/왜곡하다,비틀다
+acquisition/습득,매입,취득물
+deem/여기다,간주하다
+synonym/유의어
+invasive/외래의, 침입하는
+toxin/독소
+enterprise/기업,회사
+document/기록하다,문서
+remarkable/놀라운,주목할 만한
+supervise/감독하다
+minimum/최소의,최소
+assistance/도움
+multilingual/다개국어의
+colonial/식민지의
+explicit/명백한
+imperial/제국의,제국주의의
+prestige/위신,명성
+interpretation/해석,이해,설명
+semantically/의미론적으로,의미상
+investigation/수사,연구,조사
+peculiar/독특한, 이상한
+driveway/진입로, 사유 차도
+clasp/껴안다,움켜쥐기
+plunge/뛰어들다,수영
+recognition/인식,인정
+homogenize/동질화하다,통일하다
+unfounded/근거없는
+gymnastics/체조
+engage/참여하다,참여하다
+incorporate/포함하다,통합하다
+admission/입장,가입
+privilege/특전,특권
+merchandise/상품,물품
+exclusive/전용의,독점적인
+cultivate/재배하다,만들어내다
+classify/분류하다
+foremost/가장 중요한
+embrace/수용하다,포옹하다
+empirical/경험적인,실증적인
+obesity/비만,비대
+claim/주장하다,요구하다
+retailer/소매업자
+janitor/관리인,수위,문지기
+stature/위상,지명도,키
+fishery/어업,어장
+exploitation/이용,개발,착취
+nutrient/영양분,영양소
+replicate/되풀이하다,복제하다
+existence/존재
+respondent/응답자
+counterpart/상대자,대응하는것
+segment/부문,분야
+proportion/비율,부분
+acronym/두문자어
+authentic/진정한,진짜인
+accommodation/숙박시설,수용,적응
+initiative/계획,주도권,진취성
+circumstance/환경,상황,정황
+humidity/습기,습도
+erode/침식하다,약화되다
+geological/지질학의
+immune/면역의,면제의
+definition/정의,의미,선명도
+election/선거,당선
+willingness/기꺼이 함
+competition/경쟁,대회,시합
+cooperate/협력하다,협조하다
+qualitative/정성적인,질적인
+multiplicity/다양성,다수
+astronomical/천문의,천문학적인
+underestimate/과소평가하다
+acquaintance/지인,아는사람
+enormous/막대한,엄청난
+despair/절망,자포자기
+profound/심오한,엄청난
+isolation/고립,격리
+tolerance/관용,포용력,내성
+prestigious/명성있는,명문의
+evaporate/사라지다,증발하다
+dampen/물에 적시다,약화하다
+rhetorical/수사학의,수사적인,미사여구의
+hierarchical/위계의,계층적인
+affiliation/연대,소속,제휴,가맹
+regime/정권,체제,제도
+legitimacy/정통성,합법성
+herbivore/초식동물
+incubate/알을 품다,배양하다
+strategy/전략
+positive/긍정적인
+flexibility/유연성,탄력성
+equipment/장비,설비,용품
+anxiety/불안,걱정거리
+performance/수행,공연,성과
+universal/보편적인
+psyche/정신,마음
+standpoint/관점
+sophisticated/정교한
+displace/대체하다,대신하다,옮겨놓다
+evade/피하다,회피하다
+offspring/새끼,자식
+intangible/무형의,실체가 없는
+resonate/가득하다,울려퍼지다
+apprenticeship/도제,수습직,수습기간
+artisan/장인,기능보유자
+retain/유지하다,보유하다,기억하다
+mutation/돌연변이,변화,변형
+implicit/암시적인,암묵적인,내포된
+intellectual/지식인,지적인
+capacity/능력,용량
+perpetual/끊임없는
+infinite/무한한
+equivalent/상응하는,대응하는것
+figure/인물,모습,숫자
+testimony/증언,증거
+oppressed/억압받는
+ignorance/무지
+existing/기존의,현재 사용되는
+aesthetic/미적인,미학적인
+intact/온전한,미손상의
+forbit/금지하다
+stumble/헛디디다,비틀거리다,우연히 찾다
+overstate/과장하다
+socioeconomic/사회경제적인
+minority/소수,소수민족,소수집단
+disparity/차이,격차,불균형
+discrepancy/차이,불일치
+irregularity/불규칙,변칙
+mutual/상호간의,서로의
+collapse/붕괴,무너지다
+modest/적은,하찮은
+discern/식별하다,분별하다
+archaeology/고고학
+remains/유물,유적,유해
+craft/정교하게 만들다, 공예품
+constitute/구성하다
+term/칭하다,용어,관점
+faculty/교수진,교직원
+particle/입자,조각,미립자
+portrait/초상화
+distribute/배포하다,유통시키다
+submit/제출하다,항복하다
+evoke/불러일으키다
+species/종,종류
+interdisciplinary/학제간의,여러 학문이 관련된
+abound/풍부하다,아주 많다
+comprise/구성하다,구성되다
+validity/유효성,타당성
+mediation/명상
+overrule/압도하다,지배하다
+intensive/집약적인,집중적인
+coexistence/공존
+insincerity/불성실,정직하지 못함
+tremendous/엄청난
+preconception/선입견,예견
+autonomy/자율성,자율권
+impose/가하다,강요하다,부과하다
+inattention/부주의
+simultaneous/동시의
+benevolent/자비로운,인정많은
+extensive/광범위한
+contradiction/모순,반대,반박
+synthesize/종합하다,합성하다
+plausible/그럴듯한,이치에 맞는
+escalate/증가시키다,확대하다,상승하다
+obsess/사로잡다,집착하다
+settle/가라앉다,자리잡다,해결하다
+turbulent/사나운,난기류의
+dwelling/집,주거
+witness/목격하다,증인
+sensibility/감성
+informative/정보 제공의,유익한
+specify/명시하다,밝히다
+denial/부정,거절
+hatred/증오,혐오
+obsessively/도가 지나치게,강박적으로
+temporary/일시적인,임시의
+alternative/대안,대안의
+fortress/요새,성채
+repave/재포장하다
+undergraduate/대학생,학부생
+drowsy/졸리는
+outdated/시대에 뒤처진,구식인
+oversight/실수,간과
+intake/섭취
+proficiency/능력,실력,능숙함,숙달
+scholarship/장학금
+notification/알림,통지
+expertise/전문지식
+provide/제공하다
+value/가치,소중히 하다
+install/설치하다
+income/수입
+reputation/평판,명성
+muscular/근육질의,근육의
+innovation/혁신
+barrier/장벽,방벽,장애물
+emerge/생겨나다,드러나다
+striped/줄무늬의
+souvenir/기념품
+conference/회의,학회,회담
+exceed/초과하다,초월하다,넘어서다
+implement/이행하다,실행하다
+toxic/독성의
+compact/작은,소형의
+adorable/사랑스러운,귀여운
+customize/맞춤제작하다, 맞추다
+elasticity/탄성,탄력성
